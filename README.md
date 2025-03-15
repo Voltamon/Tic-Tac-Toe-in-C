@@ -16,7 +16,7 @@
     <h2>Getting Started</h2>
     <p>To set up the project, follow these steps:</p>
     <ol>
-        <li>Ensure you have GCC compiler installed on your machine. If not, you can install it from <a href="[https://www.rust-lang.org/tools/install](https://gcc.gnu.org/install/download.html)">gcc.gnu.org</a>.</li>
+        <li>Ensure you have GCC compiler installed on your machine. If not, you can install it from <a href="https://gcc.gnu.org/install/download.html">gcc.gnu.org</a>.</li>
         <li>Clone this repository:</li>
         <pre><code>git clone https://github.com/Voltamon/Tic-Tac-Toe-in-C.git</code></pre>
         <li>Navigate into the project directory:</li>
