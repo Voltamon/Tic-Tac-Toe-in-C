@@ -20,7 +20,7 @@
         <li>Clone this repository:</li>
         <pre><code>git clone https://github.com/Voltamon/Tic-Tac-Toe-in-C.git</code></pre>
         <li>Navigate into the project directory:</li>
-        <pre><code>cd <dir-name></code></pre>
+        <pre><code>cd #directory-name#</code></pre>
         <li>Compile and run the project:</li>
         <pre><code>gcc -g tictactoe.c -o tictactoe.exe && .\tictactoe.c</code></pre>
     </ol>
