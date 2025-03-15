@@ -18,7 +18,7 @@
     <ol>
         <li>Ensure you have Rust installed on your machine. If not, you can install it from <a href="https://www.rust-lang.org/tools/install">rust-lang.org</a>.</li>
         <li>Clone this repository:</li>
-        <pre><code>git clone https://github.com/Voltamon/TicTacToe.git</code></pre>
+        <pre><code>git clone https://github.com/Voltamon/Tic-Tac-Toe-in-C.git</code></pre>
         <li>Navigate into the project directory:</li>
         <pre><code>cd Tic_Tac_Toe</code></pre>
         <li>Compile and run the project:</li>
