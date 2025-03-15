@@ -22,6 +22,6 @@
         <li>Navigate into the project directory:</li>
         <pre><code>cd #directory-name#</code></pre>
         <li>Compile and run the project:</li>
-        <pre><code>gcc -g tictactoe.c -o tictactoe.exe && .\tictactoe.c</code></pre>
+        <pre><code>gcc -g tictactoe.c -o tictactoe.exe && .\tictactoe.exe</code></pre>
     </ol>
 </body>
