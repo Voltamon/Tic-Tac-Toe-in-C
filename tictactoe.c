@@ -3,10 +3,7 @@
 
 char board[3][3];
 const char PLAYER = 'X';
-const char COMPUTER = 'O';
-
-void computer_move();
-void print_winner(char winner);
+const char COMPUTER = 'O';
 
 void init_board() {
     for (int i = 0; i < 3; i++)
